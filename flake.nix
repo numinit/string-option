@@ -1,0 +1,1 @@
+{ outputs = { ... }: { value = "P"; }; }
