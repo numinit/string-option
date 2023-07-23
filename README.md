@@ -210,6 +210,6 @@ In case you actually wanted to use this for some reason.
 |`"y"`|`github:numinit/string-option/y`|`github:numinit/string-option/121`|`github:numinit/string-option/0x79`|
 |`"z"`|`github:numinit/string-option/z`|`github:numinit/string-option/122`|`github:numinit/string-option/0x7a`|
 |`"{"`||`github:numinit/string-option/123`|`github:numinit/string-option/0x7b`|
-|`"|"`||`github:numinit/string-option/124`|`github:numinit/string-option/0x7c`|
+|`"\|"`||`github:numinit/string-option/124`|`github:numinit/string-option/0x7c`|
 |`"}"`||`github:numinit/string-option/125`|`github:numinit/string-option/0x7d`|
 |`"~"`||`github:numinit/string-option/126`|`github:numinit/string-option/0x7e`|
